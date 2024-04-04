@@ -1,7 +1,7 @@
 {
-  "name": "hyscalerass2",
+  "name": "csv",
   "version": "1.0.0",
-  "description": "",
+  "description": "A javascript program to sanitize and restructure CSV data containing URLs and titles. The script will restructure the data to categorize URLs based on their common prefixes and consolidate titles under corresponding categories.",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Bhagyashree Ghodke",
   "license": "ISC"
 }
